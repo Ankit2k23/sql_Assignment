@@ -1,9 +1,9 @@
 # sql_Assignment
-#Peer Review
+##Peer Review
 Assignment For Peer Learning for sql
 
 
-1.Mohan Gundluri
+##1.Mohan Gundluri
 
 Ques1.We have to find the number of male and female employees in each department.
  Creating Database
@@ -41,7 +41,7 @@ He has used a good approach for solving the problem. He used proper comments whi
 
 I learn other methods of solving the problem.
 
-2.Sonali Gudey
+##2.Sonali Gudey
 
 Ques1.
 We have to find the number of male and female employees in each department.
@@ -85,7 +85,7 @@ She has used proper naming convention. Her approach is also good. She has approa
 
 
 
-2.Arin Arora
+##3.Arin Arora
 
 Ques1.We have to find the number of male and female employees in each department.
  Creating Database
